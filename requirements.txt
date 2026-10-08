@@ -1,0 +1,15 @@
+# Probado en Google Colab (GPU T4). torch lo administra Colab.
+transformers>=4.44
+datasets>=2.20
+evaluate>=0.4.2
+accelerate>=0.33
+huggingface_hub>=0.24
+sentencepiece
+protobuf
+scikit-learn>=1.3
+pandas>=2.0
+matplotlib>=3.7
+python-docx>=1.1
+tabulate
+# Solo para la demo en Spaces:
+# gradio>=4.0

@@ -1,0 +1,301 @@
+id_resena,fecha,sucursal,ciudad,canal,categoria,texto,sentimiento,dificultad
+R0001,2026-08-23,FOS-COL-052,Colima,Encuesta interna,atencion,"Muy buen trato, la cajera me ayudó a encontrar una opción más barata.",positivo,normal
+R0002,2026-04-03,FOS-GDL-014,Guadalajara,Facebook,atencion,"La cajera me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0003,2026-05-16,FOS-GDL-014,Guadalajara,Facebook,surtido,No tenían el medicamento para la presión y no supieron decirme cuándo llega.,negativo,normal
+R0004,2026-02-05,FOS-TEP-063,Tepic,Google Reviews,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0005,2026-04-30,FOS-TLQ-031,Tlaquepaque,Facebook,surtido,Tenían el medicamento para la presión pero solo de una marca.,neutral,normal
+R0006,2026-05-09,FOS-GDL-001,Guadalajara,Facebook,atencion,El chico del mostrador respondió mi pregunta sobre la leche de fórmula y ya.,neutral,normal
+R0007,2026-05-28,FOS-GDL-014,Guadalajara,Google Reviews,instalaciones,"Pues ahí está, abre a las 8.",neutral,dificil
+R0008,2026-03-30,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0009,2026-07-14,FOS-ZAP-022,Zapopan,Google Reviews,precio,El medicamento de mi mamá costó lo mismo que en el súper.,neutral,normal
+R0010,2026-08-01,FOS-GDL-001,Guadalajara,Google Reviews,atencion,Pensé que me iban a atender mal y fue todo lo contrario.,positivo,dificil
+R0011,2026-06-30,FOS-MOR-071,Morelia,Encuesta interna,atencion,"Me trataron muy mal, no vuelvo a esta sucursal.",negativo,normal
+R0012,2026-07-13,FOS-LEO-097,León,Google Reviews,tiempo_espera,"Solo una caja abierta y una fila enorme, 40 minutos perdidos.",negativo,normal
+R0013,2026-06-17,FOS-TEP-063,Tepic,Google Reviews,precio,"Ni rápido ni lento, ni caro ni barato.",neutral,dificil
+R0014,2026-05-13,FOS-TEP-063,Tepic,Google Reviews,surtido,"Fui por el medicamento para la presión; había, aunque pocas piezas.",neutral,normal
+R0015,2026-01-10,FOS-LEO-097,León,Encuesta interna,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0016,2026-08-19,FOS-TLQ-031,Tlaquepaque,Google Reviews,tiempo_espera,"Había fila, tardaron 20 minutos en atenderme.",neutral,normal
+R0017,2026-08-16,FOS-GDL-001,Guadalajara,Facebook,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0018,2026-08-29,FOS-TEP-063,Tepic,Encuesta interna,atencion,"Me encantó el servicio, la dependienta resolvió todas mis dudas sin prisas.",positivo,normal
+R0019,2026-04-19,FOS-TON-040,Tonalá,Encuesta interna,precio,El antibiótico costó lo mismo que en el súper.,neutral,normal
+R0020,2026-01-22,FOS-LEO-097,León,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con la insulina.",positivo,normal
+R0021,2026-06-12,FOS-MOR-071,Morelia,Google Reviews,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0022,2026-05-01,FOS-TLQ-031,Tlaquepaque,Encuesta interna,tiempo_espera,Tardaron más de media hora en surtir una receta sencilla.,negativo,normal
+R0023,2026-02-19,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,La dependienta respondió mi pregunta sobre el medicamento de mi mamá y ya.,neutral,normal
+R0024,2026-02-05,FOS-TEP-063,Tepic,Encuesta interna,instalaciones,"Pues ahí está, abre a las 8.",neutral,dificil
+R0025,2026-07-05,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0026,2026-05-01,FOS-TON-040,Tonalá,Google Reviews,tiempo_espera,"Esperé unos 15 minutos, lo normal para la hora.",neutral,normal
+R0027,2026-09-06,FOS-GDL-014,Guadalajara,Google Reviews,atencion,El encargado fue grosero y ni siquiera me volteó a ver.,negativo,normal
+R0028,2026-07-11,FOS-GDL-001,Guadalajara,Google Reviews,instalaciones,"Pues ahí está, abre a las 8.",neutral,dificil
+R0029,2026-08-20,FOS-TEP-063,Tepic,Encuesta interna,surtido,"Siempre tienen el medicamento para la presión, nunca me han quedado mal.",positivo,normal
+R0030,2026-06-09,FOS-ZAP-022,Zapopan,Google Reviews,surtido,"Nunca hay la insulina, me mandan a otra sucursal cada semana.",negativo,normal
+R0031,2026-05-31,FOS-TEP-063,Tepic,Google Reviews,atencion,"Me encantó el servicio, el encargado resolvió todas mis dudas sin prisas.",positivo,normal
+R0032,2026-04-10,FOS-TLQ-031,Tlaquepaque,Google Reviews,instalaciones,"Pues ahí está, abre a las 8.",neutral,dificil
+R0033,2026-03-01,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"No está mal, pero tampoco es para tanto.",neutral,dificil
+R0034,2026-03-06,FOS-GDL-014,Guadalajara,Encuesta interna,precio,"Carísimo, las vitaminas cuesta casi el doble que en otro lado.",negativo,normal
+R0035,2026-04-22,FOS-MOR-071,Morelia,Google Reviews,surtido,Tenían el antibiótico pero solo de una marca.,neutral,normal
+R0036,2026-06-30,FOS-ZAP-022,Zapopan,Facebook,surtido,"Siempre tienen las vitaminas, nunca me han quedado mal.",positivo,normal
+R0037,2026-02-03,FOS-TEP-063,Tepic,Encuesta interna,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0038,2026-01-21,FOS-GDL-014,Guadalajara,Facebook,surtido,"Nunca hay la leche de fórmula, me mandan a otra sucursal cada semana.",negativo,normal
+R0039,2026-01-31,FOS-TLQ-031,Tlaquepaque,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con el antibiótico.",positivo,normal
+R0040,2026-05-20,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,"El encargado me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0041,2026-06-01,FOS-COL-052,Colima,Google Reviews,surtido,"Encontré la insulina que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0042,2026-08-26,FOS-COL-052,Colima,Facebook,atencion,"El chico del mostrador fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0043,2026-03-05,FOS-TEP-063,Tepic,Facebook,surtido,"Tercera vez que no tienen las vitaminas, es un problema constante.",negativo,normal
+R0044,2026-04-25,FOS-TON-040,Tonalá,Facebook,atencion,"Me encantó el servicio, la química resolvió todas mis dudas sin prisas.",positivo,normal
+R0045,2026-08-09,FOS-AGS-085,Aguascalientes,Encuesta interna,surtido,"Encontré el medicamento de mi mamá que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0046,2026-03-18,FOS-ZAP-022,Zapopan,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0047,2026-08-17,FOS-LEO-097,León,Google Reviews,precio,Las vitaminas costó lo mismo que en el súper.,neutral,normal
+R0048,2026-05-08,FOS-AGS-085,Aguascalientes,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con la leche de fórmula.",positivo,normal
+R0049,2026-02-24,FOS-TLQ-031,Tlaquepaque,Facebook,atencion,"La atención fue normal, me dieron lo que pedí.",neutral,normal
+R0050,2026-02-08,FOS-MOR-071,Morelia,Google Reviews,atencion,La dependienta respondió mi pregunta sobre la leche de fórmula y ya.,neutral,normal
+R0051,2026-05-22,FOS-ZAP-022,Zapopan,Facebook,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0052,2026-06-08,FOS-TLQ-031,Tlaquepaque,Google Reviews,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0053,2026-03-23,FOS-MOR-071,Morelia,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con la insulina.",positivo,normal
+R0054,2026-08-14,FOS-TLQ-031,Tlaquepaque,Facebook,surtido,"Siempre tienen el jarabe, nunca me han quedado mal.",positivo,normal
+R0055,2026-04-06,FOS-GDL-001,Guadalajara,Encuesta interna,instalaciones,"Sucursal limpia, ordenada y con buena iluminación.",positivo,normal
+R0056,2026-07-26,FOS-TON-040,Tonalá,Google Reviews,tiempo_espera,La fila avanzó muy rápido aunque había mucha gente.,positivo,normal
+R0057,2026-06-26,FOS-COL-052,Colima,Google Reviews,surtido,Tenían el paracetamol pero solo de una marca.,neutral,normal
+R0058,2026-04-01,FOS-COL-052,Colima,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con las gotas para los ojos.",positivo,normal
+R0059,2026-09-08,FOS-TON-040,Tonalá,Google Reviews,atencion,"Muy buen trato, la dependienta me ayudó a encontrar una opción más barata.",positivo,normal
+R0060,2026-04-18,FOS-TLQ-031,Tlaquepaque,Encuesta interna,atencion,El encargado respondió mi pregunta sobre la insulina y ya.,neutral,normal
+R0061,2026-01-11,FOS-LEO-097,León,Encuesta interna,surtido,No tenían las gotas para los ojos y no supieron decirme cuándo llega.,negativo,normal
+R0062,2026-07-23,FOS-GDL-001,Guadalajara,Encuesta interna,atencion,"Me encantó el servicio, el farmacéutico resolvió todas mis dudas sin prisas.",positivo,normal
+R0063,2026-05-30,FOS-TON-040,Tonalá,Facebook,instalaciones,La sucursal estaba sucia y el aire acondicionado no servía.,negativo,normal
+R0064,2026-03-13,FOS-GDL-014,Guadalajara,Facebook,atencion,El chico del mostrador respondió mi pregunta sobre el medicamento de mi mamá y ya.,neutral,normal
+R0065,2026-06-26,FOS-GDL-001,Guadalajara,Facebook,tiempo_espera,"Esperé una hora para que me surtieran la insulina, inaceptable.",negativo,normal
+R0066,2026-05-01,FOS-GDL-014,Guadalajara,Encuesta interna,tiempo_espera,¡Qué maravilla! Solo esperé una hora para comprar la leche de fórmula.,negativo,dificil
+R0067,2026-05-12,FOS-MOR-071,Morelia,Facebook,atencion,"Muy buen trato, el chico del mostrador me ayudó a encontrar una opción más barata.",positivo,normal
+R0068,2026-07-12,FOS-MOR-071,Morelia,Google Reviews,precio,"La atención fue buena, aunque los precios están altos.",neutral,dificil
+R0069,2026-06-26,FOS-TLQ-031,Tlaquepaque,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con el medicamento de mi mamá.",positivo,normal
+R0070,2026-01-01,FOS-GDL-001,Guadalajara,Google Reviews,atencion,"Pésima atención, la cajera estaba en el celular mientras yo esperaba.",negativo,normal
+R0071,2026-07-12,FOS-COL-052,Colima,Encuesta interna,atencion,El chico del mostrador respondió mi pregunta sobre las gotas para los ojos y ya.,neutral,normal
+R0072,2026-05-08,FOS-COL-052,Colima,Facebook,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0073,2026-05-08,FOS-ZAP-022,Zapopan,Encuesta interna,atencion,El chico del mostrador respondió mi pregunta sobre el paracetamol y ya.,neutral,normal
+R0074,2026-04-30,FOS-TLQ-031,Tlaquepaque,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con el jarabe.",positivo,normal
+R0075,2026-02-12,FOS-TLQ-031,Tlaquepaque,Encuesta interna,surtido,Tenían la leche de fórmula pero solo de una marca.,neutral,normal
+R0076,2026-08-12,FOS-LEO-097,León,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0077,2026-02-07,FOS-MOR-071,Morelia,Google Reviews,atencion,La cajera respondió mi pregunta sobre el medicamento para la presión y ya.,neutral,normal
+R0078,2026-05-26,FOS-TON-040,Tonalá,Encuesta interna,tiempo_espera,"Esperé 40 minutos para que me surtieran el jarabe, inaceptable.",negativo,normal
+R0079,2026-02-11,FOS-GDL-014,Guadalajara,Encuesta interna,tiempo_espera,"Me atendieron en 3 minutos, súper rápido.",positivo,normal
+R0080,2026-08-21,FOS-TEP-063,Tepic,Facebook,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0081,2026-03-16,FOS-GDL-014,Guadalajara,Facebook,precio,La insulina costó lo mismo que en el súper.,neutral,normal
+R0082,2026-04-17,FOS-TLQ-031,Tlaquepaque,Facebook,instalaciones,Muy cómoda la sucursal y tiene estacionamiento amplio.,positivo,normal
+R0083,2026-01-16,FOS-GDL-001,Guadalajara,Facebook,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0084,2026-03-30,FOS-ZAP-022,Zapopan,Encuesta interna,atencion,La cajera respondió mi pregunta sobre el medicamento de mi mamá y ya.,neutral,normal
+R0085,2026-04-06,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Buena ubicación, lástima que nunca tengan el medicamento de mi mamá.",negativo,dificil
+R0086,2026-07-10,FOS-TON-040,Tonalá,Encuesta interna,surtido,"Encontré el jarabe que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0087,2026-06-03,FOS-ZAP-022,Zapopan,Facebook,precio,"Carísimo, la insulina cuesta casi el doble que en otro lado.",negativo,normal
+R0088,2026-05-11,FOS-GDL-001,Guadalajara,Encuesta interna,surtido,"Siempre tienen la insulina, nunca me han quedado mal.",positivo,normal
+R0089,2026-03-02,FOS-COL-052,Colima,Facebook,atencion,"La química fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0090,2026-05-01,FOS-LEO-097,León,Google Reviews,atencion,Pensé que me iban a atender mal y fue todo lo contrario.,positivo,dificil
+R0091,2026-06-19,FOS-TEP-063,Tepic,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con las vitaminas.",positivo,normal
+R0092,2026-02-22,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,"Nada que reclamar, todo perfecto como siempre.",positivo,dificil
+R0093,2026-03-10,FOS-MOR-071,Morelia,Facebook,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0094,2026-08-02,FOS-TEP-063,Tepic,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con el medicamento para la presión.",positivo,normal
+R0095,2026-04-20,FOS-ZAP-022,Zapopan,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con el jarabe.",positivo,normal
+R0096,2026-04-08,FOS-MOR-071,Morelia,Facebook,tiempo_espera,"Me atendieron en 10 minutos, súper rápido.",positivo,normal
+R0097,2026-04-12,FOS-TON-040,Tonalá,Google Reviews,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0098,2026-07-04,FOS-COL-052,Colima,Encuesta interna,atencion,"Me encantó el servicio, la cajera resolvió todas mis dudas sin prisas.",positivo,normal
+R0099,2026-06-15,FOS-LEO-097,León,Google Reviews,atencion,"La dependienta me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0100,2026-08-21,FOS-AGS-085,Aguascalientes,Google Reviews,tiempo_espera,"Esperé 40 minutos para que me surtieran el medicamento de mi mamá, inaceptable.",negativo,normal
+R0101,2026-07-18,FOS-TON-040,Tonalá,Facebook,precio,Las gotas para los ojos costó lo mismo que en el súper.,neutral,normal
+R0102,2026-01-07,FOS-TON-040,Tonalá,Google Reviews,atencion,"Me encantó el servicio, el chico del mostrador resolvió todas mis dudas sin prisas.",positivo,normal
+R0103,2026-07-20,FOS-COL-052,Colima,Google Reviews,precio,"Carísimo, el antibiótico cuesta casi el doble que en otro lado.",negativo,normal
+R0104,2026-03-11,FOS-LEO-097,León,Facebook,precio,"Me cobraron un precio distinto al de la etiqueta, qué abuso.",negativo,normal
+R0105,2026-07-14,FOS-TEP-063,Tepic,Google Reviews,atencion,La química respondió mi pregunta sobre las gotas para los ojos y ya.,neutral,normal
+R0106,2026-04-18,FOS-COL-052,Colima,Facebook,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0107,2026-04-29,FOS-ZAP-022,Zapopan,Encuesta interna,precio,La leche de fórmula costó lo mismo que en el súper.,neutral,normal
+R0108,2026-01-20,FOS-TEP-063,Tepic,Google Reviews,surtido,"Fui por el paracetamol; había, aunque pocas piezas.",neutral,normal
+R0109,2026-01-11,FOS-COL-052,Colima,Google Reviews,surtido,Tenían el medicamento de mi mamá pero solo de una marca.,neutral,normal
+R0110,2026-01-26,FOS-LEO-097,León,Facebook,atencion,"Me atendieron de forma correcta, nada que destacar.",neutral,normal
+R0111,2026-09-07,FOS-GDL-014,Guadalajara,Encuesta interna,surtido,"Nunca hay las gotas para los ojos, me mandan a otra sucursal cada semana.",negativo,normal
+R0112,2026-03-04,FOS-COL-052,Colima,Google Reviews,atencion,El chico del mostrador respondió mi pregunta sobre el jarabe y ya.,neutral,normal
+R0113,2026-08-15,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,El surtido es el de cualquier farmacia.,neutral,normal
+R0114,2026-07-11,FOS-MOR-071,Morelia,Google Reviews,precio,"Buenas promociones, el 2x1 en el medicamento de mi mamá me salvó la quincena.",positivo,normal
+R0115,2026-06-07,FOS-AGS-085,Aguascalientes,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con la insulina.",positivo,normal
+R0116,2026-05-02,FOS-TON-040,Tonalá,Facebook,atencion,"El encargado fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0117,2026-06-18,FOS-COL-052,Colima,Google Reviews,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0118,2026-04-03,FOS-GDL-014,Guadalajara,Encuesta interna,surtido,No tenían el antibiótico y no supieron decirme cuándo llega.,negativo,normal
+R0119,2026-03-24,FOS-TON-040,Tonalá,Encuesta interna,atencion,"El farmacéutico me dio indicaciones equivocadas sobre el medicamento para la presión, muy mal.",negativo,normal
+R0120,2026-04-18,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"Siempre me atienden con una sonrisa, da gusto venir a esta sucursal.",positivo,normal
+R0121,2026-06-26,FOS-TLQ-031,Tlaquepaque,Facebook,surtido,"Genial, otra vez sin el antibiótico. Ya es tradición.",negativo,dificil
+R0122,2026-02-03,FOS-AGS-085,Aguascalientes,Facebook,atencion,"El farmacéutico me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0123,2026-04-09,FOS-TLQ-031,Tlaquepaque,Encuesta interna,precio,"Carísimo, el medicamento de mi mamá cuesta casi el doble que en otro lado.",negativo,normal
+R0124,2026-09-05,FOS-MOR-071,Morelia,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con las vitaminas.",positivo,normal
+R0125,2026-04-27,FOS-LEO-097,León,Google Reviews,surtido,"Encontré el paracetamol que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0126,2026-08-06,FOS-GDL-014,Guadalajara,Encuesta interna,precio,"Ni rápido ni lento, ni caro ni barato.",neutral,dificil
+R0127,2026-04-17,FOS-AGS-085,Aguascalientes,Facebook,atencion,Pensé que me iban a atender mal y fue todo lo contrario.,positivo,dificil
+R0128,2026-07-16,FOS-ZAP-022,Zapopan,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con la leche de fórmula.",positivo,normal
+R0129,2026-07-06,FOS-MOR-071,Morelia,Google Reviews,precio,"Buenas promociones, el 2x1 en las vitaminas me salvó la quincena.",positivo,normal
+R0130,2026-05-31,FOS-GDL-014,Guadalajara,Facebook,tiempo_espera,¡Qué maravilla! Solo esperé una hora para comprar el medicamento de mi mamá.,negativo,dificil
+R0131,2026-05-20,FOS-AGS-085,Aguascalientes,Facebook,surtido,"Genial, otra vez sin el medicamento de mi mamá. Ya es tradición.",negativo,dificil
+R0132,2026-06-12,FOS-ZAP-022,Zapopan,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con las vitaminas.",positivo,normal
+R0133,2026-01-14,FOS-TLQ-031,Tlaquepaque,Facebook,atencion,"Muy buen trato, la química me ayudó a encontrar una opción más barata.",positivo,normal
+R0134,2026-06-27,FOS-COL-052,Colima,Encuesta interna,surtido,"Tercera vez que no tienen el paracetamol, es un problema constante.",negativo,normal
+R0135,2026-08-01,FOS-MOR-071,Morelia,Facebook,precio,"No es la más barata, pero el trato lo compensa.",positivo,dificil
+R0136,2026-04-08,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0137,2026-03-06,FOS-AGS-085,Aguascalientes,Google Reviews,precio,Increíble que en pleno 2026 no acepten pago con tarjeta.,negativo,dificil
+R0138,2026-08-02,FOS-TLQ-031,Tlaquepaque,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en las gotas para los ojos.",positivo,normal
+R0139,2026-02-22,FOS-LEO-097,León,Encuesta interna,atencion,La dependienta respondió mi pregunta sobre la insulina y ya.,neutral,normal
+R0140,2026-01-06,FOS-ZAP-022,Zapopan,Google Reviews,precio,"Carísimo, el jarabe cuesta casi el doble que en otro lado.",negativo,normal
+R0141,2026-02-15,FOS-TEP-063,Tepic,Google Reviews,atencion,"La química me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0142,2026-05-05,FOS-TEP-063,Tepic,Google Reviews,surtido,"Encontré el antibiótico que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0143,2026-03-03,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Siempre tienen el antibiótico, nunca me han quedado mal.",positivo,normal
+R0144,2026-06-01,FOS-GDL-014,Guadalajara,Facebook,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en el medicamento de mi mamá.",positivo,normal
+R0145,2026-07-05,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,El farmacéutico respondió mi pregunta sobre la insulina y ya.,neutral,normal
+R0146,2026-08-08,FOS-ZAP-022,Zapopan,Facebook,surtido,"Encontré el medicamento para la presión que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0147,2026-06-02,FOS-ZAP-022,Zapopan,Google Reviews,precio,El jarabe costó lo mismo que en el súper.,neutral,normal
+R0148,2026-06-25,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Buena ubicación, lástima que nunca tengan las vitaminas.",negativo,dificil
+R0149,2026-03-21,FOS-TEP-063,Tepic,Encuesta interna,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0150,2026-08-02,FOS-ZAP-022,Zapopan,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con el medicamento para la presión.",positivo,normal
+R0151,2026-01-14,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,La cajera respondió mi pregunta sobre el paracetamol y ya.,neutral,normal
+R0152,2026-01-28,FOS-COL-052,Colima,Facebook,surtido,"Buena ubicación, lástima que nunca tengan el medicamento de mi mamá.",negativo,dificil
+R0153,2026-02-13,FOS-ZAP-022,Zapopan,Encuesta interna,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0154,2026-06-14,FOS-COL-052,Colima,Encuesta interna,atencion,"Muy buen trato, el farmacéutico me ayudó a encontrar una opción más barata.",positivo,normal
+R0155,2026-06-29,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,"Nada que reclamar, todo perfecto como siempre.",positivo,dificil
+R0156,2026-02-14,FOS-MOR-071,Morelia,Facebook,surtido,"Buena ubicación, lástima que nunca tengan el jarabe.",negativo,dificil
+R0157,2026-03-30,FOS-ZAP-022,Zapopan,Facebook,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0158,2026-04-19,FOS-TLQ-031,Tlaquepaque,Google Reviews,instalaciones,No hay rampa de acceso y es imposible entrar con silla de ruedas.,negativo,normal
+R0159,2026-05-16,FOS-TEP-063,Tepic,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con las gotas para los ojos.",positivo,normal
+R0160,2026-01-05,FOS-TLQ-031,Tlaquepaque,Google Reviews,tiempo_espera,"Solo una caja abierta y una fila enorme, más de media hora perdidos.",negativo,normal
+R0161,2026-02-08,FOS-TLQ-031,Tlaquepaque,Encuesta interna,atencion,"El farmacéutico fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0162,2026-04-19,FOS-ZAP-022,Zapopan,Google Reviews,surtido,"Fui por la leche de fórmula; había, aunque pocas piezas.",neutral,normal
+R0163,2026-06-12,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0164,2026-08-16,FOS-GDL-014,Guadalajara,Google Reviews,instalaciones,La sucursal es pequeña pero cumple.,neutral,normal
+R0165,2026-08-23,FOS-TLQ-031,Tlaquepaque,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0166,2026-05-15,FOS-TLQ-031,Tlaquepaque,Facebook,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0167,2026-06-18,FOS-AGS-085,Aguascalientes,Google Reviews,precio,"Buenas promociones, el 2x1 en la insulina me salvó la quincena.",positivo,normal
+R0168,2026-06-11,FOS-GDL-014,Guadalajara,Google Reviews,surtido,"Siempre tienen el medicamento de mi mamá, nunca me han quedado mal.",positivo,normal
+R0169,2026-02-04,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0170,2026-07-11,FOS-TLQ-031,Tlaquepaque,Encuesta interna,atencion,"La cajera me dio indicaciones equivocadas sobre las gotas para los ojos, muy mal.",negativo,normal
+R0171,2026-03-31,FOS-TEP-063,Tepic,Encuesta interna,tiempo_espera,Tardaron 40 minutos en surtir una receta sencilla.,negativo,normal
+R0172,2026-01-16,FOS-GDL-014,Guadalajara,Google Reviews,precio,"Buenas promociones, el 2x1 en el paracetamol me salvó la quincena.",positivo,normal
+R0173,2026-07-25,FOS-MOR-071,Morelia,Facebook,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0174,2026-02-15,FOS-COL-052,Colima,Encuesta interna,atencion,La cajera respondió mi pregunta sobre las vitaminas y ya.,neutral,normal
+R0175,2026-07-05,FOS-GDL-001,Guadalajara,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con las gotas para los ojos.",positivo,normal
+R0176,2026-01-09,FOS-GDL-001,Guadalajara,Facebook,precio,"Buenas promociones, el 2x1 en el jarabe me salvó la quincena.",positivo,normal
+R0177,2026-01-21,FOS-LEO-097,León,Google Reviews,tiempo_espera,"Había fila, tardaron 15 minutos en atenderme.",neutral,normal
+R0178,2026-01-30,FOS-MOR-071,Morelia,Google Reviews,surtido,Tenían la insulina pero solo de una marca.,neutral,normal
+R0179,2026-05-11,FOS-GDL-001,Guadalajara,Encuesta interna,surtido,"Buena ubicación, lástima que nunca tengan el medicamento para la presión.",negativo,dificil
+R0180,2026-01-22,FOS-GDL-014,Guadalajara,Encuesta interna,surtido,No tenían el paracetamol y no supieron decirme cuándo llega.,negativo,normal
+R0181,2026-08-03,FOS-GDL-014,Guadalajara,Encuesta interna,instalaciones,"Instalaciones normales, como cualquier farmacia de barrio.",neutral,normal
+R0182,2026-01-06,FOS-COL-052,Colima,Facebook,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0183,2026-01-28,FOS-TON-040,Tonalá,Google Reviews,atencion,La cajera respondió mi pregunta sobre el antibiótico y ya.,neutral,normal
+R0184,2026-07-05,FOS-ZAP-022,Zapopan,Encuesta interna,surtido,Tenían las gotas para los ojos pero solo de una marca.,neutral,normal
+R0185,2026-08-03,FOS-GDL-001,Guadalajara,Google Reviews,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0186,2026-08-20,FOS-ZAP-022,Zapopan,Facebook,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0187,2026-01-16,FOS-COL-052,Colima,Encuesta interna,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0188,2026-04-12,FOS-ZAP-022,Zapopan,Facebook,surtido,"Nunca hay el medicamento de mi mamá, me mandan a otra sucursal cada semana.",negativo,normal
+R0189,2026-02-19,FOS-GDL-001,Guadalajara,Facebook,surtido,"Muy bien surtida, tienen de todo.",positivo,normal
+R0190,2026-05-05,FOS-LEO-097,León,Google Reviews,atencion,El farmacéutico respondió mi pregunta sobre el paracetamol y ya.,neutral,normal
+R0191,2026-04-23,FOS-GDL-001,Guadalajara,Facebook,precio,Los precios son similares a los de otras farmacias.,neutral,normal
+R0192,2026-03-14,FOS-GDL-014,Guadalajara,Facebook,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0193,2026-05-07,FOS-TLQ-031,Tlaquepaque,Encuesta interna,precio,"Ni rápido ni lento, ni caro ni barato.",neutral,dificil
+R0194,2026-06-03,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"La cajera fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0195,2026-04-05,FOS-TON-040,Tonalá,Google Reviews,atencion,La química fue grosero y ni siquiera me volteó a ver.,negativo,normal
+R0196,2026-03-07,FOS-GDL-014,Guadalajara,Google Reviews,precio,"La atención fue buena, aunque los precios están altos.",neutral,dificil
+R0197,2026-05-09,FOS-AGS-085,Aguascalientes,Encuesta interna,precio,El paracetamol costó lo mismo que en el súper.,neutral,normal
+R0198,2026-07-21,FOS-GDL-014,Guadalajara,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con el jarabe.",positivo,normal
+R0199,2026-01-17,FOS-TEP-063,Tepic,Google Reviews,atencion,El encargado respondió mi pregunta sobre el paracetamol y ya.,neutral,normal
+R0200,2026-05-23,FOS-COL-052,Colima,Google Reviews,surtido,Tenían las vitaminas pero solo de una marca.,neutral,normal
+R0201,2026-05-19,FOS-TON-040,Tonalá,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con el medicamento de mi mamá.",positivo,normal
+R0202,2026-08-27,FOS-COL-052,Colima,Facebook,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0203,2026-04-30,FOS-ZAP-022,Zapopan,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en la leche de fórmula.",positivo,normal
+R0204,2026-09-03,FOS-TLQ-031,Tlaquepaque,Google Reviews,precio,"Buenas promociones, el 2x1 en el antibiótico me salvó la quincena.",positivo,normal
+R0205,2026-03-19,FOS-ZAP-022,Zapopan,Encuesta interna,precio,"Carísimo, las gotas para los ojos cuesta casi el doble que en otro lado.",negativo,normal
+R0206,2026-06-07,FOS-MOR-071,Morelia,Encuesta interna,tiempo_espera,"Esperé una hora para que me surtieran la leche de fórmula, inaceptable.",negativo,normal
+R0207,2026-04-01,FOS-GDL-001,Guadalajara,Google Reviews,atencion,"Nada que reclamar, todo perfecto como siempre.",positivo,dificil
+R0208,2026-06-24,FOS-TLQ-031,Tlaquepaque,Google Reviews,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0209,2026-05-02,FOS-TON-040,Tonalá,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en las vitaminas.",positivo,normal
+R0210,2026-08-06,FOS-LEO-097,León,Google Reviews,precio,"Buenas promociones, el 2x1 en el antibiótico me salvó la quincena.",positivo,normal
+R0211,2026-05-21,FOS-MOR-071,Morelia,Google Reviews,surtido,"Fui por las vitaminas; había, aunque pocas piezas.",neutral,normal
+R0212,2026-02-19,FOS-TEP-063,Tepic,Encuesta interna,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0213,2026-08-27,FOS-TEP-063,Tepic,Encuesta interna,surtido,"Fui por el medicamento de mi mamá; había, aunque pocas piezas.",neutral,normal
+R0214,2026-06-11,FOS-GDL-001,Guadalajara,Encuesta interna,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0215,2026-05-16,FOS-COL-052,Colima,Encuesta interna,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0216,2026-05-22,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Fui por el jarabe; había, aunque pocas piezas.",neutral,normal
+R0217,2026-04-06,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Fui por la insulina; había, aunque pocas piezas.",neutral,normal
+R0218,2026-01-22,FOS-MOR-071,Morelia,Facebook,surtido,"Encontré las vitaminas que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0219,2026-04-24,FOS-GDL-001,Guadalajara,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con la leche de fórmula.",positivo,normal
+R0220,2026-05-01,FOS-COL-052,Colima,Google Reviews,surtido,Tenían el jarabe pero solo de una marca.,neutral,normal
+R0221,2026-08-21,FOS-TEP-063,Tepic,Google Reviews,atencion,Pensé que me iban a atender mal y fue todo lo contrario.,positivo,dificil
+R0222,2026-01-19,FOS-MOR-071,Morelia,Google Reviews,precio,"Buenas promociones, el 2x1 en las gotas para los ojos me salvó la quincena.",positivo,normal
+R0223,2026-01-27,FOS-TEP-063,Tepic,Encuesta interna,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0224,2026-02-14,FOS-TON-040,Tonalá,Encuesta interna,atencion,"Pésima atención, el encargado estaba en el celular mientras yo esperaba.",negativo,normal
+R0225,2026-03-05,FOS-GDL-001,Guadalajara,Google Reviews,precio,"No es la más barata, pero el trato lo compensa.",positivo,dificil
+R0226,2026-08-24,FOS-TLQ-031,Tlaquepaque,Encuesta interna,atencion,"Excelente atención de el farmacéutico, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0227,2026-03-01,FOS-COL-052,Colima,Facebook,atencion,La química respondió mi pregunta sobre el jarabe y ya.,neutral,normal
+R0228,2026-02-06,FOS-AGS-085,Aguascalientes,Encuesta interna,precio,Increíble que en pleno 2026 no acepten pago con tarjeta.,negativo,dificil
+R0229,2026-03-24,FOS-GDL-014,Guadalajara,Facebook,atencion,"Nada que reclamar, todo perfecto como siempre.",positivo,dificil
+R0230,2026-05-18,FOS-MOR-071,Morelia,Google Reviews,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0231,2026-08-27,FOS-MOR-071,Morelia,Encuesta interna,surtido,No tenían la leche de fórmula y no supieron decirme cuándo llega.,negativo,normal
+R0232,2026-04-09,FOS-AGS-085,Aguascalientes,Encuesta interna,tiempo_espera,Tardaron una hora en surtir una receta sencilla.,negativo,normal
+R0233,2026-06-04,FOS-TEP-063,Tepic,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con el antibiótico.",positivo,normal
+R0234,2026-03-23,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,"La dependienta me dio indicaciones equivocadas sobre el antibiótico, muy mal.",negativo,normal
+R0235,2026-03-25,FOS-MOR-071,Morelia,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar el medicamento de mi mamá.",positivo,normal
+R0236,2026-03-18,FOS-MOR-071,Morelia,Encuesta interna,tiempo_espera,"Solo una caja abierta y una fila enorme, una hora perdidos.",negativo,normal
+R0237,2026-03-08,FOS-GDL-014,Guadalajara,Google Reviews,atencion,La dependienta respondió mi pregunta sobre las gotas para los ojos y ya.,neutral,normal
+R0238,2026-03-02,FOS-TON-040,Tonalá,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con el medicamento para la presión.",positivo,normal
+R0239,2026-03-13,FOS-TON-040,Tonalá,Google Reviews,surtido,"Siempre tienen las gotas para los ojos, nunca me han quedado mal.",positivo,normal
+R0240,2026-02-13,FOS-LEO-097,León,Google Reviews,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0241,2026-04-17,FOS-ZAP-022,Zapopan,Encuesta interna,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con el antibiótico.",positivo,normal
+R0242,2026-08-17,FOS-LEO-097,León,Google Reviews,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0243,2026-09-04,FOS-LEO-097,León,Facebook,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en la insulina.",positivo,normal
+R0244,2026-07-02,FOS-GDL-014,Guadalajara,Encuesta interna,tiempo_espera,"Esperé 40 minutos para que me surtieran las gotas para los ojos, inaceptable.",negativo,normal
+R0245,2026-08-14,FOS-AGS-085,Aguascalientes,Encuesta interna,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0246,2026-03-13,FOS-TLQ-031,Tlaquepaque,Encuesta interna,surtido,No tenían el medicamento de mi mamá y no supieron decirme cuándo llega.,negativo,normal
+R0247,2026-06-15,FOS-LEO-097,León,Google Reviews,precio,"Carísimo, la leche de fórmula cuesta casi el doble que en otro lado.",negativo,normal
+R0248,2026-03-23,FOS-GDL-014,Guadalajara,Encuesta interna,atencion,"Nada que reclamar, todo perfecto como siempre.",positivo,dificil
+R0249,2026-05-27,FOS-ZAP-022,Zapopan,Encuesta interna,precio,El medicamento para la presión costó lo mismo que en el súper.,neutral,normal
+R0250,2026-02-10,FOS-LEO-097,León,Facebook,atencion,"El chico del mostrador me atendió, sin más. Ni bien ni mal.",neutral,normal
+R0251,2026-06-23,FOS-MOR-071,Morelia,Facebook,atencion,"El encargado me dio indicaciones equivocadas sobre el medicamento de mi mamá, muy mal.",negativo,normal
+R0252,2026-04-05,FOS-TLQ-031,Tlaquepaque,Facebook,tiempo_espera,"Rapidísimo, entré y salí en 3 minutos con el paracetamol.",positivo,normal
+R0253,2026-09-04,FOS-LEO-097,León,Encuesta interna,tiempo_espera,"Esperé unos 20 minutos, lo normal para la hora.",neutral,normal
+R0254,2026-01-31,FOS-TEP-063,Tepic,Encuesta interna,precio,"Buenas promociones, el 2x1 en el medicamento para la presión me salvó la quincena.",positivo,normal
+R0255,2026-01-06,FOS-TEP-063,Tepic,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en el jarabe.",positivo,normal
+R0256,2026-01-27,FOS-TLQ-031,Tlaquepaque,Google Reviews,surtido,"Nunca hay el paracetamol, me mandan a otra sucursal cada semana.",negativo,normal
+R0257,2026-05-09,FOS-MOR-071,Morelia,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en el medicamento para la presión.",positivo,normal
+R0258,2026-05-01,FOS-AGS-085,Aguascalientes,Facebook,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en el antibiótico.",positivo,normal
+R0259,2026-06-20,FOS-MOR-071,Morelia,Encuesta interna,surtido,"Fui por el antibiótico; había, aunque pocas piezas.",neutral,normal
+R0260,2026-02-12,FOS-LEO-097,León,Facebook,atencion,"Pésima atención, la dependienta estaba en el celular mientras yo esperaba.",negativo,normal
+R0261,2026-01-15,FOS-TLQ-031,Tlaquepaque,Facebook,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar el jarabe.",positivo,normal
+R0262,2026-09-01,FOS-MOR-071,Morelia,Facebook,atencion,"Excelente atención de la química, me explicó muy bien cómo tomar el antibiótico.",positivo,normal
+R0263,2026-05-22,FOS-COL-052,Colima,Google Reviews,surtido,"Siempre tienen el paracetamol, nunca me han quedado mal.",positivo,normal
+R0264,2026-06-05,FOS-GDL-001,Guadalajara,Facebook,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0265,2026-08-30,FOS-TEP-063,Tepic,Google Reviews,precio,"Carísimo, el paracetamol cuesta casi el doble que en otro lado.",negativo,normal
+R0266,2026-01-07,FOS-COL-052,Colima,Facebook,atencion,"Muy buen trato, el encargado me ayudó a encontrar una opción más barata.",positivo,normal
+R0267,2026-04-15,FOS-TON-040,Tonalá,Encuesta interna,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar las gotas para los ojos.",positivo,normal
+R0268,2026-01-01,FOS-TEP-063,Tepic,Google Reviews,precio,"Carísimo, el medicamento para la presión cuesta casi el doble que en otro lado.",negativo,normal
+R0269,2026-04-17,FOS-GDL-001,Guadalajara,Facebook,atencion,"Excelente atención de la cajera, me explicó muy bien cómo tomar la insulina.",positivo,normal
+R0270,2026-08-28,FOS-GDL-001,Guadalajara,Encuesta interna,precio,"Buenas promociones, el 2x1 en la leche de fórmula me salvó la quincena.",positivo,normal
+R0271,2026-07-28,FOS-ZAP-022,Zapopan,Google Reviews,tiempo_espera,"Esperé más de media hora para que me surtieran la insulina, inaceptable.",negativo,normal
+R0272,2026-07-07,FOS-COL-052,Colima,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar las vitaminas.",positivo,normal
+R0273,2026-05-14,FOS-AGS-085,Aguascalientes,Encuesta interna,atencion,"La dependienta fue muy amable y paciente, se nota que conoce los medicamentos.",positivo,normal
+R0274,2026-04-27,FOS-LEO-097,León,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con el paracetamol.",positivo,normal
+R0275,2026-03-09,FOS-AGS-085,Aguascalientes,Google Reviews,tiempo_espera,"Me atendieron en 5 minutos, súper rápido.",positivo,normal
+R0276,2026-03-09,FOS-GDL-001,Guadalajara,Encuesta interna,atencion,"No me quejo, la cajera fue amable aunque tardaron un poco.",positivo,dificil
+R0277,2026-01-07,FOS-LEO-097,León,Google Reviews,atencion,La química respondió mi pregunta sobre el antibiótico y ya.,neutral,normal
+R0278,2026-07-30,FOS-TON-040,Tonalá,Google Reviews,precio,"Los precios son mejores que en otras cadenas, ahorré bastante en el paracetamol.",positivo,normal
+R0279,2026-05-07,FOS-GDL-014,Guadalajara,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 5 minutos con el medicamento de mi mamá.",positivo,normal
+R0280,2026-02-18,FOS-ZAP-022,Zapopan,Encuesta interna,surtido,"Tercera vez que no tienen las gotas para los ojos, es un problema constante.",negativo,normal
+R0281,2026-06-12,FOS-LEO-097,León,Google Reviews,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0282,2026-01-09,FOS-TLQ-031,Tlaquepaque,Facebook,surtido,"Siempre tienen la leche de fórmula, nunca me han quedado mal.",positivo,normal
+R0283,2026-03-26,FOS-GDL-001,Guadalajara,Encuesta interna,tiempo_espera,"Esperé 40 minutos para que me surtieran la leche de fórmula, inaceptable.",negativo,normal
+R0284,2026-07-14,FOS-TLQ-031,Tlaquepaque,Google Reviews,atencion,"Excelente atención de el encargado, me explicó muy bien cómo tomar la leche de fórmula.",positivo,normal
+R0285,2026-02-11,FOS-LEO-097,León,Google Reviews,atencion,Pensé que me iban a atender mal y fue todo lo contrario.,positivo,dificil
+R0286,2026-04-20,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,"Excelente atención de la dependienta, me explicó muy bien cómo tomar el medicamento para la presión.",positivo,normal
+R0287,2026-03-08,FOS-GDL-001,Guadalajara,Facebook,atencion,La cajera fue grosero y ni siquiera me volteó a ver.,negativo,normal
+R0288,2026-01-12,FOS-COL-052,Colima,Google Reviews,surtido,No tenían la insulina y no supieron decirme cuándo llega.,negativo,normal
+R0289,2026-03-05,FOS-GDL-014,Guadalajara,Encuesta interna,surtido,"Encontré la leche de fórmula que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0290,2026-07-01,FOS-TON-040,Tonalá,Google Reviews,tiempo_espera,"Rapidísimo, entré y salí en 10 minutos con el paracetamol.",positivo,normal
+R0291,2026-01-31,FOS-MOR-071,Morelia,Encuesta interna,tiempo_espera,"Esperé una hora para que me surtieran las vitaminas, inaceptable.",negativo,normal
+R0292,2026-04-02,FOS-TEP-063,Tepic,Google Reviews,atencion,La dependienta respondió mi pregunta sobre el jarabe y ya.,neutral,normal
+R0293,2026-01-26,FOS-MOR-071,Morelia,Google Reviews,surtido,"Encontré el medicamento para la presión que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0294,2026-01-03,FOS-GDL-001,Guadalajara,Facebook,atencion,La química respondió mi pregunta sobre el paracetamol y ya.,neutral,normal
+R0295,2026-05-12,FOS-AGS-085,Aguascalientes,Google Reviews,atencion,"No me quejo, la química fue amable aunque tardaron un poco.",positivo,dificil
+R0296,2026-02-08,FOS-AGS-085,Aguascalientes,Google Reviews,surtido,"Encontré las gotas para los ojos que no había en ninguna otra farmacia, ¡gracias!",positivo,normal
+R0297,2026-07-31,FOS-ZAP-022,Zapopan,Google Reviews,atencion,"Excelente atención de el chico del mostrador, me explicó muy bien cómo tomar el paracetamol.",positivo,normal
+R0298,2026-01-09,FOS-ZAP-022,Zapopan,Google Reviews,surtido,"Fui por las gotas para los ojos; había, aunque pocas piezas.",neutral,normal
+R0299,2026-08-22,FOS-GDL-014,Guadalajara,Google Reviews,atencion,"El farmacéutico me dio indicaciones equivocadas sobre las gotas para los ojos, muy mal.",negativo,normal
+R0300,2026-04-14,FOS-ZAP-022,Zapopan,Encuesta interna,precio,"No es la más barata, pero el trato lo compensa.",positivo,dificil
