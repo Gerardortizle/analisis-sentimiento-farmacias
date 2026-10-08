@@ -73,4 +73,4 @@ Las métricas completas se generan en `results/metricas_modelos.csv` y `results/
 - **Limitación:** el dataset es sintético; antes de producción debe validarse con reseñas reales etiquetadas.
 
 ## Autor
-José Gerardo Ortiz Leñero · Maestría en Ciencia de Datos, Universidad Tecmilenio
+José Gerardo Ortiz Leñero · Master en Inteligencia Artificial, Universidad Tecmilenio
