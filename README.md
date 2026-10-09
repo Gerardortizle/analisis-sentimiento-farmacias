@@ -44,7 +44,7 @@ analisis-sentimiento-farmacias/
 - Token de Hugging Face con permiso *Read* guardado en **Colab Secrets** como `HF_TOKEN`
 
 ## Pasos de ejecución
-1. Abrir `notebooks/Act4_Comparacion_Modelos_HF.ipynb` en Colab (*Archivo → Abrir cuaderno → GitHub*).
+1. Abrir `notebooks/Act4_Comparacion_Modelos_HF_JGOL.ipynb` en Colab (*Archivo → Abrir cuaderno → GitHub*).
 2. *Entorno de ejecución → Cambiar tipo de entorno → GPU T4*.
 3. Agregar el secreto `HF_TOKEN` (ícono 🔑).
 4. Ejecutar celdas 1 y 2; **reiniciar la sesión**.
