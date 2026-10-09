@@ -28,7 +28,7 @@ analisis-sentimiento-farmacias/
 │   ├── resenas_farmacias.csv        # 300 reseñas sintéticas etiquetadas
 │   └── diccionario_datos.md         # origen y descripción de campos
 ├── notebooks/
-│   └── Act4_Comparacion_Modelos_HF.ipynb
+│   └── Act4_Comparacion_Modelos_HF_JGOL.ipynb
 ├── src/
 │   ├── generar_dataset.py           # regenera el dataset (semilla 42)
 │   ├── llenar_reporte.py            # inserta resultados en el reporte Word
