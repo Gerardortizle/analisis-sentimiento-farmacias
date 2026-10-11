@@ -1,0 +1,5 @@
+alias,modelo,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,recall_NEG,recall_NEU,recall_POS,lat_lote_ms,lat_p50_ms,lat_p95_ms,throughput_rps,t_carga_s,params_M,vram_pico_MB,cumple_umbrales
+M1_RoBERTuito,pysentimiento/robertuito-sentiment-analysis,0.8,0.7851,0.8288,0.797,0.8041,0.9531,0.7895,0.7438,1.5884,9.6395,17.7651,629.5624,10.3815,108.791,461.1149,True
+M2_XLM-R_Twitter,cardiffnlp/twitter-xlm-roberta-base-sentiment,0.82,0.8027,0.8419,0.8167,0.8219,0.9219,0.8289,0.775,2.1213,9.962,13.6203,471.4037,36.6168,278.046,1139.8067,True
+M3_BERT_mult_5estrellas,nlptown/bert-base-multilingual-uncased-sentiment,0.6967,0.62,0.641,0.5974,0.6738,0.8438,0.2105,0.8688,1.8613,9.5102,11.2208,537.269,101.1552,167.3603,697.3189,False
+M4_DistilBERT_mult,lxyuan/distilbert-base-multilingual-cased-sentiments-student,0.61,0.5127,0.5128,0.4858,0.587,0.5312,0.1447,0.8625,1.2963,5.1574,5.7048,771.4345,29.4331,135.327,569.9246,False

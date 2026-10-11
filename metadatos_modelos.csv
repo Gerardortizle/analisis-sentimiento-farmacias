@@ -1,0 +1,5 @@
+,modelo,tarea,licencia,descargas_mes,disco_MB
+M1_RoBERTuito,pysentimiento/robertuito-sentiment-analysis,text-classification,no declarada,450680,435.2
+M2_XLM-R_Twitter,cardiffnlp/twitter-xlm-roberta-base-sentiment,text-classification,no declarada,745524,1112.3
+M3_BERT_mult_5estrellas,nlptown/bert-base-multilingual-uncased-sentiment,text-classification,mit,691260,669.5
+M4_DistilBERT_mult,lxyuan/distilbert-base-multilingual-cased-sentiments-student,text-classification,apache-2.0,539671,541.3

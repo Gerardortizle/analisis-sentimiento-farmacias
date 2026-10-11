@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-10-11 17:06",
+  "gpu": "Tesla T4",
+  "python": "3.13.15",
+  "transformers": "5.18.0",
+  "recomendado": "M1_RoBERTuito",
+  "mas_preciso": "M2_XLM-R_Twitter",
+  "mas_rapido": "M4_DistilBERT_mult",
+  "requiere_ft": false,
+  "umbrales": {
+    "accuracy": 0.8,
+    "f1_macro": 0.75,
+    "recall_NEG": 0.75,
+    "lat_p95_ms": 100.0
+  },
+  "n_resenas": 300
+}
