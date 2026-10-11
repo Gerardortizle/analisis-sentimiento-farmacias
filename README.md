@@ -35,7 +35,7 @@ analisis-sentimiento-farmacias/
 │   └── app_gradio.py                # demo para Hugging Face Spaces
 ├── results/                         # métricas, predicciones, gráficas y versiones (se generan al ejecutar)
 └── docs/
-    └── Analisis_Comparativo_Modelos.docx
+    └── Act. 4 Analisis_Comparativo_Modelos JGOL.docx
 ```
 
 ## Entorno de ejecución
@@ -48,10 +48,10 @@ analisis-sentimiento-farmacias/
 2. *Entorno de ejecución → Cambiar tipo de entorno → GPU T4*.
 3. Agregar el secreto `HF_TOKEN` (ícono 🔑).
 4. Ejecutar celdas 1 y 2; **reiniciar la sesión**.
-5. En la celda 4, colocar la URL de este repositorio en `REPO_URL` y ejecutar de la celda 3 a la 15 en orden.
-6. Descargar la carpeta `results/` y `docs/Analisis_Comparativo_Modelos_resultados.docx`, y subirlos al repositorio.
+5. Ejecutar de la celda 3 a la 15 en orden.
+6. Descargar la carpeta `results/` y subirlos al repositorio.
 
-Para regenerar el dataset sin Colab: `python src/generar_dataset.py`.
+Para regenerar el dataset: `python src/generar_dataset.py`.
 
 ## Umbrales de aceptación
 | Métrica | Umbral |
@@ -64,7 +64,7 @@ Para regenerar el dataset sin Colab: `python src/generar_dataset.py`.
 Regla: entre los modelos que cumplen todo se elige el de mayor F1-macro; si otro queda a ≤ 0.02, gana el más rápido. Si ninguno cumple, se aplica fine-tuning ligero (celda 16).
 
 ## Resultados
-Las métricas completas se generan en `results/metricas_modelos.csv` y `results/resumen.md`. *(Pegar aquí la tabla de `results/resumen.md` tras la ejecución.)*
+Las métricas completas se generan en `results/metricas_modelos.csv` y `results/resumen.md`. 
 
 ## Conclusiones
 - La comparación se hizo con datos del propio caso de uso y umbrales definidos antes de ejecutar, no por popularidad del modelo.
